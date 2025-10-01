@@ -1,1 +1,0 @@
-print("Takk fyrir mig!")
